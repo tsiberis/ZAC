@@ -1,0 +1,37 @@
+ZAC v0.1
+by Takis Tsiberis
+
+This is a mind training game as shown at
+"The Suite Life of Zack & Cody" movie.
+Click the color boxes to match the given word,
+but NOT the color of the given word.
+
+You can play a similar game online at:
+http://www.purposegames.com/game/593
+
+Music is:
+Tchaikovsky's "Dance of the sugar plum fairy"
+extensively remixed by Martha Decker: martha@deckernet.com
+&
+Shostakovich's "Dance of death" sequenced by ...
+
+All sounds from:
+http://www.hark.com
+
+All colors by Kevin J. Walsh at:
+"RGB to Color Name Mapping"
+http://support.esosoft.net/counter/rgb.html
+
+Copyright (c) 2012 Panagiotis Tsiberis
+This program is free software; you can redistribute it and / or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version
+2 of the License, or (at your option) any later version.
+
+Takis Tsiberis uses:
+Lubuntu platform, Python language, Pygame library and Geany editor.
+
+Supported platforms:
+Linux, Windows and The Mac.
+Have fun !!!
+
